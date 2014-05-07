@@ -254,7 +254,7 @@ h2.entry-title a { margin-bottom: 15px; font-size: 22px; }
 	min-height:140px;
 }
 
-.container-banner { /* background-color: #1f3a70; */ background-color: #1f3a70; padding:0; max-height:460px;}
+.container-banner { /* background-color: #1f3a70; */ background-color: #1f3a70; padding:0; /*max-height:460px;*/ /*Causing Auxiliary menu out of place */}
 
 .container-banner h1 { color:#fff; margin:60px 0 30px 0;}
 
